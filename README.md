@@ -1,5 +1,7 @@
 Basic Image Classification
 
+<img src = "image/1_1.png">
+
 Now, we will build a neural network model to solve a basic image classification problem.  We will accomplish this with the help of following tasks in the project:
 
     Understand the problem statement
